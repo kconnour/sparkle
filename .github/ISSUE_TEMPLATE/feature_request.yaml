@@ -1,0 +1,13 @@
+name: Feature request
+description: You have a brilliant idea that you want to see added to sparkle.
+labels: enhancement
+
+body:
+  - type: textarea
+    attributes:
+      label: Feature request
+      description: >-
+        Please describe the feature you'd like to see added to sparkle.
+        This may include papers, algorithms, code, etc.
+    validations:
+      required: true
